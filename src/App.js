@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn git
+          Learn git squash
         </a>
       </header>
     </div>
